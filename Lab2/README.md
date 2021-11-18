@@ -1,7 +1,7 @@
 # aplikacje-inte-22698-195ic
 Strona na pythonanywhere prezentuje się w ten sposób:
 <br>
-![image](https://user-images.githubusercontent.com/56955430/142504697-1675b069-c80c-4925-bedd-152c2e6cd2da.png)
+![image](https://user-images.githubusercontent.com/56955430/142505312-eeeda88a-df07-4a88-bb65-601a59b20518.png)
 <br>
 Po zalogowaniu:
 <br>
