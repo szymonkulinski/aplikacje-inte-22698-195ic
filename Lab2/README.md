@@ -24,3 +24,7 @@ Przypomnienie hasła:
 ![image](https://user-images.githubusercontent.com/56955430/142505054-f74529cd-0c4b-474f-a03a-408ecda5a899.png)
 <br>
 ![image](https://user-images.githubusercontent.com/56955430/142505083-7a673d67-ccbc-41f6-8a3a-73b87b734c1b.png)
+<br>
+Lokalna konsola bo zresetowaniu hasła:
+<br>
+![image](https://user-images.githubusercontent.com/56955430/142505196-33b3b42c-9bc8-45b4-b265-a2bef50b6a50.png)
