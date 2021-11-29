@@ -151,3 +151,5 @@ SOCIAL_AUTH_TWITTER_SECRET = '' # Twitter API Secret
 
 SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '' # Google Consumer Key
 SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '' # Google Consumer Secret
+
+DEFAULT_AUTO_FIELD='django.db.models.AutoField'
