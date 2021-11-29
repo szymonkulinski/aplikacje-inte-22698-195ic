@@ -1,9 +1,9 @@
 from django.contrib.auth.models import User
-from django.urls import path
+
 
 class EmailAuthBackend(object):
     """
-    Authenticate using an e-mail address.
+	Uwierzytelnianie przy użyciu adresu e-mail
     """
     def authenticate(self, request, username=None, password=None):
         try:
