@@ -1,37 +1,36 @@
 {% extends "base.html" %}
 
-{% block title %}Log-in{% endblock %}
+{% block title %}Zaloguj się{% endblock %}
 
 {% block content %}
-  <h1>Log-in</h1>
+  <h1>Zaloguj się</h1>
   {% if form.errors %}
     <p>
-      Your username and password didn't match.
-      Please try again.
+      Twoja nazwa użytkownika i hasło nie pasują. Spróbuj zalogować się jeszcze raz.
     </p>
   {% else %}
-    <p>Jeżeli nie posiadasz konta: <a href="{% url "register" %}">rejestracja</a></p>
+    <p>Użyj poniższego formularza do zalogowania się. Jeżeli nie masz konta <a href="{% url 'register' %}">zajerestruj się tutaj.</a></p>
   {% endif %}
   <div class="login-form">
     <form action="{% url 'login' %}" method="post">
       {{ form.as_p }}
       {% csrf_token %}
       <input type="hidden" name="next" value="{{ next }}" />
-      <p><input type="submit" value="Log-in"></p>
+      <p><input type="submit" value="Zaloguj się"></p>
     </form>
-    <p><a href="{% url "password_reset" %}">Przypomnij hasło</a></p>
+    <p><a href="{% url 'password_reset' %}">Zapomniałeś hasła?</a></p>
   </div>
   <div class="social">
-    <ul>
-      <li class="facebook">
-        <a href="{% url "social:begin" "facebook" %}">Sign in with Facebook</a>
-      </li>
-      <li class="twitter">
-        <a href="{% url "social:begin" "twitter" %}">Login with Twitter</a>
-      </li>
-      <li class="google">
-        <a href="{% url "social:begin" "google-oauth2" %}">Login with Google</a>
-      </li>
-    </ul>
+	<ul>
+		<li class="facebook">
+			<a href="{% url 'social:begin' 'facebook' %}">Zaloguj się przy użyciu Facebook</a>
+		</li>
+		<li class="google">
+			<a href="{% url 'social:begin' 'google-oauth2' %}">Zaloguj się przy użyciu Google</a>
+		</li>
+		<li class="github">
+			<a href="{% url 'social:begin' 'github' %}">Zaloguj się przy użyciu Github</a>
+		</li>
+	</ul>
   </div>
 {% endblock %}
