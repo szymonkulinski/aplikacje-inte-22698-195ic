@@ -1,30 +1,19 @@
-# aplikacje-inte-22698-195ic
-Strona na pythonanywhere prezentuje się w ten sposób:
+https://szymonkulinski.pythonanywhere.com
 <br>
-![image](https://user-images.githubusercontent.com/56955430/142505312-eeeda88a-df07-4a88-bb65-601a59b20518.png)
+Strona prezentuje się w ten sposób:
+<br>
+![image](https://user-images.githubusercontent.com/56955430/144077861-aaadc292-44ee-4141-b52e-de1c1fcec167.png)
+<br>
+Logowanie przy pomocy facebooka:
+![image](https://user-images.githubusercontent.com/56955430/144077949-d4d674c4-35d8-43e4-b246-0ffcd3bf54b6.png)
+<br>
+Strona odpowiednio przekierowywuje.
+<br>
+Github:
+<br>
+![image](https://user-images.githubusercontent.com/56955430/144078029-374624d9-a55a-4e88-a2a1-dff1da753310.png)
 <br>
 Po zalogowaniu:
 <br>
-![image](https://user-images.githubusercontent.com/56955430/142504788-3ed18194-75dd-48fd-8065-d42d7d93e57e.png)
+![image](https://user-images.githubusercontent.com/56955430/144078207-e1dd3f7d-9bb5-4f35-ba63-454e1ff23bc4.png)
 <br>
-Po wylogowaniu:
-<br>
-![image](https://user-images.githubusercontent.com/56955430/142504840-261c2c4f-d5fd-49be-ace8-761259effac4.png)
-<br>
-Rejestracja:
-<br>
-![image](https://user-images.githubusercontent.com/56955430/142504874-22bc6222-db90-4543-ab7d-3b76c94974a0.png)
-<br>
-Po stworzeniu konta:
-<br>
-![image](https://user-images.githubusercontent.com/56955430/142504959-26a60e29-a929-4c0a-9810-fab0341b9229.png)
-<br>
-Przypomnienie hasła:
-<br>
-![image](https://user-images.githubusercontent.com/56955430/142505054-f74529cd-0c4b-474f-a03a-408ecda5a899.png)
-<br>
-![image](https://user-images.githubusercontent.com/56955430/142505083-7a673d67-ccbc-41f6-8a3a-73b87b734c1b.png)
-<br>
-Lokalna konsola bo zresetowaniu hasła:
-<br>
-![image](https://user-images.githubusercontent.com/56955430/142505196-33b3b42c-9bc8-45b4-b265-a2bef50b6a50.png)
