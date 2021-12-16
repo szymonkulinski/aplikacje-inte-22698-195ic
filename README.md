@@ -2,6 +2,7 @@
 <br>
 Interfejs REST API z widoku administratora:
 <br>
+
 ![image](https://user-images.githubusercontent.com/56955430/146410635-ccb1ebf8-bb43-4b1e-ab22-0f347dd03135.png)
 <br>
 <br>
