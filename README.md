@@ -1,4 +1,4 @@
-# lab5
+# lab4
 <br>
 Interfejs REST API z widoku administratora:
 <br>
