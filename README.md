@@ -14,38 +14,22 @@ Po wyszukaniu:
 <br>
 Pobranie sciezki do strony:
 <br>
+
 ![image](https://user-images.githubusercontent.com/56955430/148652986-235f6b4d-92c1-4d66-917c-6982f51aeacd.png)
 <br>
 Wynik:
 <br>
+
 ![image](https://user-images.githubusercontent.com/56955430/148653015-f310c3aa-61fa-4e59-a563-69004e397912.png)
 <br>
 Pobieranie elementu poprzez klase:
 <br>
+
 ![image](https://user-images.githubusercontent.com/56955430/148653084-9e853f8b-c5ec-4bc6-ad37-4c53741a05d8.png)
 <br>
 Wybrana klasa to: mw-headline
 <br>
 Wynik:
 <br>
+
 ![image](https://user-images.githubusercontent.com/56955430/148653097-93744180-dc88-4fe4-96e1-4f3a58e0c381.png)
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
