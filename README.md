@@ -19,3 +19,12 @@ Dodana osoba:
 <br>
 
 ![image](https://user-images.githubusercontent.com/56955430/150421872-6b87340e-e3ac-49a7-82c7-0c38c9331ad7.png)
+
+<br>
+
+
+Dodawanie zdjęcia symbolu płci jest automatyczne
+
+<br>
+
+![image](https://user-images.githubusercontent.com/56955430/150422401-b52f4146-2389-4a06-af1b-0c5d591eabfe.png)
